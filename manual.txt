@@ -1,0 +1,38 @@
+# Upute za instalaciju i pokretanje Ruby OS-a (Python verzija)
+
+Ruby OS je operativni sustav razvijen u Pythonu.
+Ovaj dokument će vas voditi kroz postupak instalacije, 
+konfiguracije i pokretanja Ruby OS-a na vašem računaru.
+
+## 1. Instaliranje ruby os
+Ruby os samo koristi fajld EBOOT.py i hal.dll oba dva su važna i
+moraju biti u istom direktorijumu.
+
+## 2.Instaliranje sistema u skripti
+Pokrenite python skriptu u bilo kom python pokretaču i u
+terminalu napišite 'pip install bs4' i 'pip install requests'
+nakom toga pokrenite python skriptu instalacija će sama krenuti
+kada izaberete opciju 1 posle toga unesite sledeće komande u
+terminal 'pip install wget' 'wget https://github.com/OgnjenDev/ruby os'
+'mv ruby/sys/boot.asm ruby/sys/start/' i onda 'cd sys64 'ruby'
+to je to sistem instaliran
+
+## 3.Napravite nalog
+lagani samo vas pita ime i lozinku
+
+## 4.Početni meni
+imate opcije i izaberite ih tako što napišete broj pored njih
+
+## 5.Terminal root
+ako želite da dobijete root u terminalu napišite 'sudo root'
+ako želite da updajtate sistem 'ruby update'
+ako želite da instalirate pakaete 'apt install pac'
+
+## 6.Zaključak
+Imate dozvolu od mene da menjate kod sistema ali da ne delite glupe
+verzije sistema na internet
+
+#Ruby os
+Hvala što ste probali ruby os!!!!!!!!!!!!
+
+ 
