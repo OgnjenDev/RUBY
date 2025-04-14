@@ -3,3 +3,6 @@ Ruby is my os programmed in python. If you don't know Serbian, I recommend a tra
 
 grub appearance:
 ![Logo](grub.png)
+
+OS appearance:
+![Logo](os.png)
