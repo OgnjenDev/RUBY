@@ -78,6 +78,9 @@ ROOT_STATUS_FILE = "root_status.txt"
 
 stored_username, stored_password = user.strip().split(',')
 
+OS logo:
+![Logo](ruby.png)
+
 grub appearance:
 ![Logo](grub.png)
 
