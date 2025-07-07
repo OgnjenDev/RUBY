@@ -35,7 +35,7 @@ Ruby OS is designed for old-school computing lovers, young developers, and hobby
   Draw pixels using characters in a grid-based paint utility.
 
 - 💻 **Terminal with command system**  
-  Custom terminal that supports built-in commands like `help`, `dir`, `run`, etc.
+  Custom terminal that supports built-in commands like `help`, `ls`, `cd`, etc.
 
 - 👤 **User space separation**  
   Files and configurations are organized by user-defined space.
