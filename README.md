@@ -57,4 +57,4 @@ grub appearance:
 ![Logo](grub.png)
 
 OS appearance:
-![Logo](os.png)
+![Logo](os.jpg)
