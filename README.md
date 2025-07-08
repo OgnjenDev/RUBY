@@ -48,6 +48,36 @@ Ruby OS is designed for old-school computing lovers, young developers, and hobby
 
 ---
 
+## 🧑‍💻 Instalation
+
+- Instalation in Ruby OS is kind like arch.First install `requests`, `bs4` , `psutil` then run the EBOOT.py script after that you will get a grub bootloader and just select `Ruby OS`
+
+-After that the system will run some commands automatic to setup the instalation.
+
+-The you will get a console and type this things
+
+-font
+to see the avalible fonts
+
+-fontset
+to set the font
+
+-genfstab -U /mnt >> /mnt/etc/fstab
+it will show an empty line if its working
+
+-ruby-chroot /mnt
+
+-pacman -S grub grub-install --target=i386-pc /dev/sda grub-mkconfig -o /boot/grub/grub.cfg
+
+-ruby
+this will finish the console instalation
+
+after this ti will ask you what device you are using computer,laptop,phone,tablet,server or you are a developer (you need a dev password)
+
+## ❤️ Community
+
+A big THANK YOU to the python community for making this possible!
+
             
 
 OS logo:
