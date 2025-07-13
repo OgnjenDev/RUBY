@@ -88,3 +88,5 @@ grub appearance:
 
 OS appearance:
 ![Logo](os.jpg)
+
+Ruby OS email : rubyosofficial@gmail.com
