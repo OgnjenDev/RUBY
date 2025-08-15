@@ -4553,8 +4553,6 @@ def dev_options():
         elif choice == '3':
             break
 
-terminal()
-
 def dev_rules():
     print("Developer Rules:")
     print("1. Publishing the developer password online is forbidden. Consequences: (Developer access revoked) or (Fine of 12,000 RSD or €500)")
