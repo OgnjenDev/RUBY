@@ -4,7 +4,7 @@ import os
 import time
 
 OS_NAME = "Ruby OS"
-OS_VERSION = "1.3.5"
+OS_VERSION = "1.3.6"
 OS_AUTHOR = "Ognjen Đokić"
 
 def boot():
